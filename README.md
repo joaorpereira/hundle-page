@@ -1,8 +1,8 @@
 # Frontend Mentor - Huddle landing page with single introductory section
 
-## Site:
-[Huddle landing page](https://joaorpereira.github.io/hundle-page/).
+## Site: 
 
+[Huddle landing page (click here)](https://joaorpereira.github.io/hundle-page/)
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
